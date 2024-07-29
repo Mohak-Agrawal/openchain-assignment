@@ -18,8 +18,8 @@ To get started, you need to install the required dependencies in both the `clien
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/Mohak-Agrawal/openchain-assignment.git
+   cd openchain-assignment
    ```
 
 2. Install dependencies:
@@ -64,15 +64,6 @@ To get started, you need to install the required dependencies in both the `clien
    ```bash
    truffle migrate --network sepolia
    ```
-
-## Project Structure
-
-your-repo/
-
-- client/ # React frontend
-- truffle/ # Truffle project for smart contracts
-- README.md
-- package.json
 
 ## Contributing
 
