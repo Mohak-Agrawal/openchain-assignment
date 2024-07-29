@@ -68,10 +68,11 @@ To get started, you need to install the required dependencies in both the `clien
 ## Project Structure
 
 your-repo/
-├── client/ # React frontend
-├── truffle/ # Truffle project for smart contracts
-├── README.md
-└── package.json
+
+- client/ # React frontend
+- truffle/ # Truffle project for smart contracts
+- README.md
+- package.json
 
 ## Contributing
 
